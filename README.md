@@ -58,7 +58,7 @@ In this course, You’ll learn how to:
 
 ```bash
 # 1. Clone the repo
-git clone [https://github.com/yourusername/awwwards-site.git](https://github.com/yourusername/awwwards-site.git)
+git clone [https://github.com/FullStackEmpire/gsap-awwwards-website.git](https://github.com/FullStackEmpire/gsap-awwwards-website.git)
 
 # 2. Install dependencies
 npm install
@@ -467,9 +467,9 @@ export { flavorlists, nutrientLists, cards };
 
 ## Assets
 
-- 🎥 Videos: [`/public/videos`](https://github.com/Fullstack-Empire/3D-Dev-Portfolio/tree/main/public/models)
-- 📚 Fonts: [`/public/fonts`](https://github.com/Fullstack-Empire/3D-Dev-Portfolio/tree/main/public/fonts)
-- 🖼️ Images: [`/public/images`](https://github.com/Fullstack-Empire/3D-Dev-Portfolio/tree/main/public/images)
+- 🎥 Videos: [`/public/videos`](https://github.com/FullStackEmpire/gsap-awwwards-website/tree/main/public/videos)
+- 📚 Fonts: [`/public/fonts`](https://github.com/FullStackEmpire/gsap-awwwards-website/tree/main/public/fonts)
+- 🖼️ Images: [`/public/images`](https://github.com/FullStackEmpire/gsap-awwwards-website/tree/main/public/images)
 
 ## Community
 
