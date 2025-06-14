@@ -467,9 +467,9 @@ export { flavorlists, nutrientLists, cards };
 
 ## Assets
 
-- 🎥 Videos: [`/public/videos`](https://github.com/FullStackEmpire/gsap-awwwards-website/tree/main/public/videos)
-- 📚 Fonts: [`/public/fonts`](https://github.com/FullStackEmpire/gsap-awwwards-website/tree/main/public/fonts)
-- 🖼️ Images: [`/public/images`](https://github.com/FullStackEmpire/gsap-awwwards-website/tree/main/public/images)
+- 🎥 Videos: [`/public/videos`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/videos)
+- 📚 Fonts: [`/public/fonts`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/fonts)
+- 🖼️ Images: [`/public/images`](https://github.com/Fullstack-Empire/GSAP-Awwwards-Website/tree/main/public/images)
 
 ## Community
 
