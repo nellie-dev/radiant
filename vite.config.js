@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig(({ command }) => ({
   plugins: [react(), tailwindcss()],
-  base: command === "serve" ? "/" : "/radiant/",  // ✅ local = "/", build = "/radiant/"
+  base: command === "serve" ? "/" : "/radiant",  // ✅ local = "/", build = "/radiant/"
   resolve: {
     alias: {
       "@": "/src",
