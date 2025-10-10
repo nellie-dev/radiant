@@ -48,37 +48,37 @@ const BenefitSection = () => {
         <div className="col-center">
           <p>
             Unlock the Advantages: <br />
-            Explore the Key Benefits of Choosing SPYLT
+            Explore the Key Benefits of Choosing RADIANT
           </p>
 
           <div className="mt-20 col-center">
             <ClipPathTitle
-              title={"Shelf stable"}
-              color={"#faeade"}
-              bg={"#c88e64"}
+              title={"Anti-Aging"}
+              color={"#FAEAEA"}
+              bg={"#9B5DE5"}
               className={"first-title"}
-              borderColor={"#222123"}
+              borderColor={"#4B1D5F"}
             />
             <ClipPathTitle
-              title={"Protein + Caffeine"}
-              color={"#222123"}
-              bg={"#faeade"}
-              className={"second-title"}
-              borderColor={"#222123"}
-            />
-            <ClipPathTitle
-              title={"Infinitely recyclable"}
-              color={"#faeade"}
-              bg={"#7F3B2D"}
-              className={"third-title"}
-              borderColor={"#222123"}
-            />
-            <ClipPathTitle
-              title={"Lactose free"}
+              title={"Vitamin Enriched"}
               color={"#2E2D2F"}
-              bg={"#FED775"}
+              bg={"#FF8C42"}
+              className={"second-title"}
+              borderColor={"#4B1D5F"}
+            />
+            <ClipPathTitle
+              title={"Endlessly replenishing"}
+              color={"#FAEAEA"}
+              bg={"#7A2E6E"}
+              className={"third-title"}
+              borderColor={"#4B1D5F"}
+            />
+            <ClipPathTitle
+              title={"Toxin Free"}
+              color={"#2E2D2F"}
+              bg={"#CBA3F5"}
               className={"fourth-title"}
-              borderColor={"#222123"}
+              borderColor={"#4B1D5F"}
             />
           </div>
 

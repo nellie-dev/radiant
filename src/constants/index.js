@@ -1,42 +1,29 @@
-const flavorlists = [
+const productlists = [
   {
-    name: "Chocolate Milk",
+    name: "Mocha",
     color: "brown",
     rotation: "md:rotate-[-8deg] rotate-0",
   },
   {
-    name: "Stawberry Milk",
-    color: "red",
-    rotation: "md:rotate-[8deg] rotate-0",
-  },
-  {
-    name: "Cookies & Cream",
-    color: "blue",
-    rotation: "md:rotate-[-8deg] rotate-0",
-  },
-  {
-    name: "Peanut Butter Chocolate",
+    name: "Peach",
     color: "orange",
     rotation: "md:rotate-[8deg] rotate-0",
   },
   {
-    name: "Vanilla Milkshake",
-    color: "white",
+    name: "Bloom",
+    color: "purple",
     rotation: "md:rotate-[-8deg] rotate-0",
   },
   {
-    name: "Max Chocolate Milk",
-    color: "black",
+    name: "Strawberry",
+    color: "red",
     rotation: "md:rotate-[8deg] rotate-0",
   },
-];
-
-const nutrientLists = [
-  { label: "Potassium", amount: "245mg" },
-  { label: "Calcium", amount: "500mg" },
-  { label: "Vitamin A", amount: "176mcg" },
-  { label: "Vitamin D", amount: "5mcg" },
-  { label: "Iron", amount: "1mg" },
+  {
+    name: "Pink Vanilla",
+    color: "pink",
+    rotation: "md:rotate-[-8deg] rotate-0",
+  },
 ];
 
 const cards = [
@@ -73,20 +60,6 @@ const cards = [
     name: "Chris",
     img: "/images/p5.png",
   },
-  {
-    src: "/videos/f6.mp4",
-    rotation: "rotate-z-[4deg]",
-    name: "Devante",
-    img: "/images/p6.png",
-    translation: "translate-y-[5%]",
-  },
-  {
-    src: "/videos/f7.mp4",
-    rotation: "rotate-z-[-3deg]",
-    name: "Melisa",
-    img: "/images/p7.png",
-    translation: "translate-y-[10%]",
-  },
 ];
 
-export { flavorlists, nutrientLists, cards };
+export { productlists, cards };
