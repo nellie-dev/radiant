@@ -1,14 +1,15 @@
-import { defineConfig } from "vite";
-import react from "@vitejs/plugin-react";
-import tailwindcss from "@tailwindcss/vite";
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+import tailwindcss from '@tailwindcss/vite'
 
-export default defineConfig(({ command }) => ({
+// https://vite.dev/config/
+export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: command === "serve" ? "/" : "/radiant",  // ✅ local = "/", build = "/radiant/"
+  base:"/radiant/",
   resolve: {
     alias: {
-      "@": "/src",
+      '@': '/src',
     },
   },
-}));
+})
 
